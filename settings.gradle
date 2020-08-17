@@ -1,0 +1,2 @@
+include ':WzCoreLibrary'
+include ':app'
