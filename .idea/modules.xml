@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WzCoreLibrary/WzCoreLibrary-WzCoreLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/WzCoreLibrary/WzCoreLibrary-WzCoreLibrary.iml" group="WzCoreLibrary/WzCoreLibrary" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Douk/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-WzCoreLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/my-WzCoreLibrary.iml" group="WzCoreLibrary" />
+    </modules>
+  </component>
+</project>
