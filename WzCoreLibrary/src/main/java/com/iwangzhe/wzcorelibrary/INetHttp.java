@@ -9,6 +9,6 @@ import java.util.Map;
  * desc   :
  */
 public interface INetHttp {
-    void reqGetResByWzApi(String url, Map<String, String> params, IResCallback callback);
+    void reqGetResByWzApi(String url, Map<String, String> params, WzNetCallback callback);
 
 }

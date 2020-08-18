@@ -6,6 +6,6 @@ package com.iwangzhe.wzcorelibrary;
  * date   : 2020/8/1513:26
  * desc   :
  */
-public interface IResCallback {
+public interface WzNetCallback {
     void onResult(String result);
 }
