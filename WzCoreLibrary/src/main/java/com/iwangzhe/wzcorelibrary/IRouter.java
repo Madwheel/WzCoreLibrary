@@ -23,5 +23,5 @@ public interface IRouter {
      * @param title     webview标题
      * @param needLogin 是否需要登录
      */
-    void startWebview(String url, String title, boolean needLogin);
+    void startWebview(String url, String title, boolean isToHome, boolean needLogin);
 }
