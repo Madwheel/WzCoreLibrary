@@ -4,7 +4,7 @@
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
         <option name="GRADLE_PROJECT_PATH" value=":WzCoreLibrary" />
-        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.2.0" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.1.2" />
         <option name="LAST_KNOWN_AGP_VERSION" value="3.1.2" />
       </configuration>
     </facet>
@@ -27,8 +27,8 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
-    <output url="file://$MODULE_DIR$/../../../WzCoreLibrary/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
-    <output-test url="file://$MODULE_DIR$/../../../WzCoreLibrary/build/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
+    <output url="file://$MODULE_DIR$/../../../WzCoreLibrary/build/intermediates/classes/debug" />
+    <output-test url="file://$MODULE_DIR$/../../../WzCoreLibrary/build/intermediates/classes/test/debug" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../WzCoreLibrary">
       <sourceFolder url="file://$MODULE_DIR$/../../../WzCoreLibrary/build/generated/source/apt/debug" isTestSource="false" generated="true" />
