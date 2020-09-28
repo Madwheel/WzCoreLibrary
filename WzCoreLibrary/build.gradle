@@ -26,5 +26,4 @@ dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])
     //https://github.com/nhachicha/SnappyDB
     implementation 'com.snappydb:snappydb-lib:0.5.2'
-    implementation "com.alibaba:fastjson:1.2.58"
 }
